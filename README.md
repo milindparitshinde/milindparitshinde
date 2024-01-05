@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milind Parit Shinde
+- 👋 Hi, I’m Milind Shinde
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Cloud Computing and Frontend Web Development
 - 🌱 I’m currently learning Frontend Wev Development
 - 📫 Reach me through <a href="https://www.linkedin.com/in/milindparitshinde/">LinkedIn</a>
