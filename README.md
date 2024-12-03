@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Frontend Wev Development
 - 📫 Reach me through <a href="https://www.linkedin.com/in/milindparitshinde/">LinkedIn</a>
 
+Hand Right: To Score your handwrting skills
+- <a href="https://handrightai-dlesngsmmnvydfrfqbtvrs.streamlit.app/">Try it out here.</a>
+
 Web Dev
 - https://socialg-ram.vercel.app/
  
